@@ -69,6 +69,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    width: 100% !important;
 }
 
 .breadcrumb-area:after {
